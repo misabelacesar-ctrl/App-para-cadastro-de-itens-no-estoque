@@ -1,0 +1,6 @@
+{
+  "name": "SENAI SP - SIGE Controle de Estoque",
+  "description": "Sistema Integrado de Gestão e Controle de Estoques Industriais do SENAI-SP com cadastro hierárquico, movimentações, localizações, relatórios e persistência em nuvem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
